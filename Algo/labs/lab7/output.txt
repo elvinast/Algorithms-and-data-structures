@@ -1,0 +1,4 @@
+4 9Sarov 10000
+Dzerzhinsk 90000
+Balakhna 10000
+NizhnyNovgorod 890000
